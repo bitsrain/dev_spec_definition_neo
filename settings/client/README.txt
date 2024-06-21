@@ -1,0 +1,1 @@
+Client's Membership seems to be a static placeholder.
